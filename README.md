@@ -1,7 +1,7 @@
 VAE Project: Simple Variational Autoencoder
 
 Basic VAE Architecture
-
+vae_picture.png
 
 This project implements a simple Variational Autoencoder (VAE) using PyTorch. VAEs are generative models that can learn to recreate input data and generate new similar samples.
 
