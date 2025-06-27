@@ -1,6 +1,6 @@
 Simple Variational Autoencoder (VAE) Implementation
 
-https://vae_picture.png
+[https://vae_picture.png](https://github.com/Pewciu6/Auto-Encoding-Variational-Bayes/blob/main/vae_picture.png)
 Basic VAE Architecture - Encoder, Latent Space, and Decoder
 
 This project implements a simple Variational Autoencoder (VAE) using PyTorch. VAEs are powerful generative models that can learn to recreate input data and generate new similar samples.
